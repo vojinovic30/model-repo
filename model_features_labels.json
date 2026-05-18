@@ -1,0 +1,14 @@
+{
+    "model1":{
+        "input":[
+            "l4_src_port",
+            "l4_dst_port",
+            "protocol",
+            "in_bytes",
+            "tcp_flags"
+        ],
+        "output": [
+            "Botnet"
+        ]
+    }
+}
