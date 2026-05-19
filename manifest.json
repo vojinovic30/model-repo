@@ -1,0 +1,6 @@
+{
+  "runtime": "onnx",
+  "predictor": "classification",
+  "model_file": "model1.onnx",
+  "features_file": "model_features_labels.json"
+}
